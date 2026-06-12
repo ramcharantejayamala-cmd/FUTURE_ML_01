@@ -1,0 +1,7 @@
+
+WALMART SALES FORECASTING RESULTS
+=================================
+
+MAE  : 98,093.53
+RMSE : 175,968.11
+R2   : 0.8910

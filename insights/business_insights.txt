@@ -1,0 +1,20 @@
+
+BUSINESS INSIGHTS
+=================
+
+Top Performing Store:
+Store 20
+
+Best Sales Month:
+Month 12
+
+Key Findings:
+-------------
+1. Sales vary significantly across stores.
+2. Holiday periods influence weekly sales.
+3. Economic indicators affect sales performance.
+4. Monthly trends help identify peak demand periods.
+5. Random Forest captures non-linear sales patterns effectively.
+
+Recommendation:
+Use forecasting models to improve inventory planning and staffing decisions.
